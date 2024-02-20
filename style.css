@@ -1,0 +1,50 @@
+html{
+    background-color:#F5EEE6;
+}
+h1{
+   color:#E6A4B4; 
+   font-style:italic;
+
+}
+
+h3{
+   color:#E6A4B4; 
+   font-style: italic;
+}
+h4{
+    color:#E6A4B4;
+    font-style: italic;
+    font-size: 17px;
+
+
+}
+p{
+    color:#E6A4B4;
+    font-style:italic;
+    font-size: 18px;
+    background-color:#F3D7CA;
+}
+
+button{
+    background-color:#F5EEE6;
+}
+/* ID Selector */
+#button{
+            text-decoration: none;
+            color:#E6A4B4;
+}
+/* ID Selector */
+#image{
+       width: 500px; 
+       height: 500px;
+
+}
+/* ID Selector */
+#design{
+        width: 500px;
+
+}
+/* Universal Selector*/
+*{
+  text-align: center;  
+}
